@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "clear && node ."
+    "test": "clear && node .",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
