@@ -1,0 +1,11 @@
+{
+  "name": "linkshort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear && node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
