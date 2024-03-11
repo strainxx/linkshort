@@ -3,3 +3,8 @@
 This is vercel compatibilite web app to shortcut your links
 
 ## See links.json for configuration
+```
+{
+  "/endpoint": "link"
+}
+```
